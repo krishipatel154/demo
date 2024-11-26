@@ -1,2 +1,3 @@
 # demo
+learn git and github...
 author = Krishi Patel
